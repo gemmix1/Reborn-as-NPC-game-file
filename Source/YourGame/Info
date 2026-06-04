@@ -1,0 +1,13 @@
+RebornasNPC!/
+├── Source/
+│   └── RebornasNPC!/
+│       ├── Public/
+│       │   ├── WeaponManager.h
+│       │   ├── WeaponBase.h
+│       │   ├── WeaponAxe.h
+│       │   ├── SpecialAbility.h
+│       │   └── WeaponConfig.h
+│       └── Private/
+│           ├── WeaponManager.cpp
+│           ├── WeaponBase.cpp
+│           └── WeaponAxe.cpp
